@@ -18,7 +18,7 @@
 <h3>Contact Me</h3>
 <div>
  <a href="https://www.linkedin.com/in/gregory-cuevas/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><img/><a/>
-  <a href="https://www.mail.google.com/gregoryjunior2101@gmail.com"><img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=red"><a/>
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=red"><a/>
 </div>
 
 
