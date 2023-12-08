@@ -2,9 +2,9 @@
 <h2>Frontend Developer <img width="25"  src="https://img.icons8.com/fluency/48/microsoft-paint.png" alt="microsoft-paint"/></h2>
 <h3>About me</h3> 
   
-- I'am 17 years old I am from Dominican Republic.
-- I'am Frontend Developer.
-- I'am someone creative and I always like to learn good things.
+- I'm 17 years old I am from Dominican Republic.
+- I'm Frontend Developer.
+- I'm someone creative and I always like to learn good things.
 -I like the frontend because I feel like I help users have a better experience in the projects I do.
 
 <h3>Technology</h3>
