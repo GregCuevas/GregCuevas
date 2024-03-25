@@ -1,11 +1,11 @@
 <h1>Hello I'm Gregory Cuevas <img width="29"src="https://img.icons8.com/fluency/48/000000/programming.png" alt="programming"/><img width="29"  src="https://img.icons8.com/3d-fluency/94/positive-dynamic.png" alt="positive-dynamic"/><img width="29"  src="https://img.icons8.com/3d-fluency/94/hard-working.png" alt="hard-working"/><h1/>
-<h2>Frontend Developer <img width="25"  src="https://img.icons8.com/fluency/48/microsoft-paint.png" alt="microsoft-paint"/></h2>
+<h2>Frontend Developer <img width="25"  src="https://img.icons8.com/fluency/48/microsoft-paint.png" alt="Microsoft-paint"/></h2>
 <h3>About me</h3> 
   
-- I'm 17 years old I am from Dominican Republic.
-- I'm Frontend Developer.
+- I'm 18 years old I am from Dominican Republic.
+- I'm a Frontend Developer.
 - I'm someone creative and I always like to learn good things.
--I like the frontend because I feel like I help users have a better experience in the projects I do.
+-I like the front end because I feel like I help users have a better experience in the projects I do.
 
 <h3>Technology</h3>
  <div>
