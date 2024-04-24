@@ -1,4 +1,5 @@
 <h1>Gregory Cuevas</h1>
+<h2>Web Developer</h2>
 <h3>Technology</h3>
  <div>
 <img src="https://img.shields.io/badge/-HTML5-333333?logo=HTML5"><img/>
