@@ -1,4 +1,4 @@
-<h2 align="center">Web Delevoper | Frontend </h2> 
+<strong align="center">Web Delevoper | Frontend </strong> 
 
 ![Banner](https://github.com/GregCuevas/GregCuevas/blob/main/Gregory%20Cuevas.png)
 🚀 About Me
