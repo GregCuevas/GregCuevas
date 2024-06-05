@@ -42,7 +42,7 @@ I am a web developer with experience in technologies such as JavaScript and Reac
 
 
 
-## 🏆 Achievements
+## 🏆 Certificates
 - **Certified Udemy** The Complete 2024 Web Development Bootcamp.
 ---
 
