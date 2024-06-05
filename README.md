@@ -3,11 +3,8 @@
 ![Banner](https://github.com/GregCuevas/GregCuevas/blob/main/Gregory%20Cuevas.png)
 🚀 About Me
 
-I am a passionate software engineer from the Dominican Republic specializing in web and desktop application development. I enjoy building robust, scalable, and efficient solutions to complex problems.
- 
-- 🌍 I'm based in Santo Domingo, Dominican Republic
-- 🔭 I’m currently working on various web development projects using React, JavaScript
-- 📫 How to reach me: gregoryjunior2101@gmail.com or via https://www.linkedin.com/in/gregory-cuevas/
+I am a web developer with experience in technologies such as JavaScript and React. I have strong skills in designing and developing efficient and attractive user interfaces. I enjoy building robust, scalable, and efficient solutions to complex problems.
+
 
 ## 🛠️ Skills
 ### Languages
