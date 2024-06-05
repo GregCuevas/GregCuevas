@@ -43,9 +43,6 @@ I am a web developer with experience in technologies such as JavaScript and Reac
 
 
 ## 🏆 Achievements
-- **Certified Professional**: List any relevant certifications here.
-- **Hackathon Winner**: Mention any hackathons you’ve won.
-- **Open Source Contributor**: Highlight contributions to notable open source projects.
-
+- **Certified Udemy** The Complete 2024 Web Development Bootcamp.
 ---
 
