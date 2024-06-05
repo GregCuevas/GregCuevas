@@ -1,7 +1,8 @@
-<h2 align="center">Hi there, I'm GregCuevas </h2> 
+<h2 align="center">Web Delevoper | Frontend </h2> 
 
-
+![Banner](https://github.com/GregCuevas/GregCuevas/blob/main/Gregory%20Cuevas.png)
 🚀 About Me
+
 I am a passionate software engineer from the Dominican Republic specializing in web and desktop application development. I enjoy building robust, scalable, and efficient solutions to complex problems.
  
 - 🌍 I'm based in Santo Domingo, Dominican Republic
@@ -34,12 +35,6 @@ I am a passionate software engineer from the Dominican Republic specializing in 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-
-
-## 📈 GitHub Stats
-!GregCuevas GitHub stats(https://github-readme-stats.vercel.app/api?username=GregCuevas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregCuevas&layout=compact&theme=radical)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gregory-cuevas)
