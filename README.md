@@ -2,8 +2,9 @@
 
 ![Banner](https://github.com/GregCuevas/GregCuevas/blob/main/Gregory%20Cuevas.png)
 🚀 About Me
-
+<p>
 I am a web developer with experience in technologies such as JavaScript and React. I have strong skills in designing and developing efficient and attractive user interfaces. I enjoy building robust, scalable, and efficient solutions to complex problems.
+</p>
 
 
 ## 🛠️ Skills
