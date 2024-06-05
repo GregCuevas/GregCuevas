@@ -1,4 +1,4 @@
-<strong align="center">Web Delevoper | Frontend </strong> 
+<h2 style="font-size: 50px;">Web Developer | <span style="color: green;">Frontend</span></h2>
 
 ![Banner](https://github.com/GregCuevas/GregCuevas/blob/main/Gregory%20Cuevas.png)
 🚀 About Me
