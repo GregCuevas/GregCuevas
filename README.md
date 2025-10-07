@@ -38,7 +38,7 @@ I am a web developer with experience in technologies such as JavaScript and Reac
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gregory-cuevas)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gregoryjunior2101@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=000000)](https://instagram.com/gregory_junior/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=000000)](https://www.instagram.com/gregory_junior_/)
 
 
 
